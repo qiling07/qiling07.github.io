@@ -16,15 +16,22 @@ I am applying for PhD programs, and I expect to graduate in Summer 2024. Please 
 
 Education
 ------
+- Sept. 2022 - June. 2024 (expected)  
+  **Bachelor of Science in Computer Science**  
+  <span style="color: gray; font-weight: bold;">University of Michigan</span>
+- Sept. 2020 - June. 2022  
+  **Bachelor of Science in Electrical and Computer Engineering**  
+  <span style="color: gray; font-weight: bold;">Shanghai Jiao Tong University</span>
+
 
 Publications
 ------
-- [Accurate Spectre detector accounting for practical exploitability](/about.html)
-  Qi Ling and Yi Ren, Baris Kasikci, Shuwen Deng
-  In submission to ASPLOS 2023
+- [Accurate Spectre detector accounting for practical exploitability](/about.html)  
+  Qi Ling and Yi Ren, Baris Kasikci, Shuwen Deng  
+  *In submission to ASPLOS 2023*
 - [Towards Fine-Grained, High-Coverage Internet Monitoring at Scale](../files/sec5-towards_fine_grained.pdf)  
   Hongyu Wu, Qi Ling, Penghui Mi, Chaoyang Ji, Yinliang Hu, Yibo Pi  
-  APNet'23
+  *APNet'23*
 
 Awards & Scholarships
 ------
