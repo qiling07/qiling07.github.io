@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student majoring in Computer Science at University of Michigan [umich](https://cse.engin.umich.edu). Before I transferred to Umich, I also studied in Shanghai Jiao Tong University [SJTU](https://www.ji.sjtu.edu.cn) and was majoring in Electrical and Computer Engineering.
+I am currently an undergraduate student majoring in Computer Science at University of Michigan ([umich](https://cse.engin.umich.edu)). Before I transferred to Umich, I also studied in Shanghai Jiao Tong University ([SJTU](https://www.ji.sjtu.edu.cn)) and was majoring in Electrical and Computer Engineering.
 
 My research interest mainly lies in computer systems and architecture. Currently I am interested in compiler and CPU optimizations in large cloud computing systems. I want to contribute to more efficient data center applications.
 
@@ -38,6 +38,8 @@ Awards & Scholarships
 - <div style="display: flex; justify-content: space-between;">Dean's Honor List<span style="flex-grow: 1;"></span>2023</div>
 - <div style="display: flex; justify-content: space-between;">Jackson and Murial Lum Scholarship<span style="flex-grow: 1;"></span>2022</div>
 - <div style="display: flex; justify-content: space-between;">SJTU Undergraduate Excellence Scholarship<span style="flex-grow: 1;"></span>2021</div>
+
+
 
 <!-- A data-driven personal website
 ======
