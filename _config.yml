@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qi Ling / Senior"
 title_separator          : "-"
 name                     : &name "Qi Ling"
-description              : &description "Senior majoring in CS & ECS"
+description              : &description "Senior majoring in CS & ECE"
 url                      : https://qiling07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiling07/qiling07.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qi Ling"
   avatar           : "profile.png"
-  bio              : "Senior majoring in CS & ECS"
+  bio              : "Senior majoring in CS & ECE"
   location         : "MI 48105"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
