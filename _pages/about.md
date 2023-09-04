@@ -12,6 +12,8 @@ I am currently an undergraduate student majoring in Computer Science at Universi
 
 My research interest mainly lies in computer systems and architecture. Currently I am interested in compiler and CPU optimizations in large cloud computing systems. I want to contribute to more efficient data center applications.
 
+I am advised by [Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/#) and [Baris Kasikci](https://web.eecs.umich.edu/~barisk/). I have also closely worked with [Yibo Pi](https://yibopi.github.io).
+
 I am applying for PhD programs, and I expect to graduate in Summer 2024. Please reach out to me if your are looking for PhD students.
 
 Education
