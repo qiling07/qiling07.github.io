@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Ling / Umich / SJTU / Senior / CS"
+title                    : "Qi Ling / Senior"
 title_separator          : "-"
 name                     : &name "Qi Ling"
 description              : &description "Senior majoring in CS & ECS"
