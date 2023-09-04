@@ -6,4 +6,4 @@ author_profile: true
 
 Email: qiling@umich.edu  
 Phone: +1 (734) 834-7174  
-Address: 1857 Shieley Lane, Ann Arbor, Michigan 48105  
+Address: <address>1857 Shirley Lane<br /> Ann Arbor, MI 48105<br /> United States</address>
