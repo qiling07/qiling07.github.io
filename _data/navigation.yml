@@ -9,5 +9,8 @@ main:
   - title: "CV"
     url: /files/resume_QiLing.pdf
     
-  - title: "Contact"
+  - title: "Markdown"
     url: /markdown/
+
+  - title: "Contact"
+    url: /contact/
