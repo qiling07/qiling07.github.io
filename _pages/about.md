@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently an undergraduate student majoring in Computer Science at University of Michigan ([umich](https://cse.engin.umich.edu)). Before I transferred to Umich, I also studied in Shanghai Jiao Tong University ([SJTU](https://www.ji.sjtu.edu.cn)) and was majoring in Electrical and Computer Engineering.
 
+My research interest mainly lies in computer systems and architecture. Currently I am interested in . I want to contribute to more efficient data center applications.
+
 My research interest mainly lies in computer systems and architecture. Currently I am interested in compiler and CPU optimizations in large cloud computing systems. I want to contribute to more efficient data center applications.
 
 I am advised by [Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/#) and [Baris Kasikci](https://web.eecs.umich.edu/~barisk/). I have also closely worked with [Yibo Pi](https://yibopi.github.io).
