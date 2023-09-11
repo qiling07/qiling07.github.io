@@ -5,34 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-<style>
-.first-line-hfill {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.first-line-hfill li {
-    flex-grow: 1;
-}
-
-.first-line-hfill li:first-child {
-    flex-grow: 0;
-}
-</style>
-
-<div class="first-line-hfill">
-- **EFESLAB, University of Michigan**
-  Jan. 2023 - Aug. 2023
-- Another bullet point
-- Yet another bullet point
-</div>
-
-
-
 - Jan. 2023 - Aug. 2023  
   **EFESLAB, University of Michigan**  
   **Advisors: Shuwen Deng and Baris Kasikci**  
