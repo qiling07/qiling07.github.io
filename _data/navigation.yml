@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Works"
+    url: /works/
+
+  - title: "Experience"
+    url: /experience/
+    
+  - title: "CV"
+    url: /files/resume_QiLing.pdf
+
+  - title: "Contact"
+    url: /contact/
