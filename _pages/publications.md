@@ -5,7 +5,7 @@ permalink: /works/
 author_profile: true
 ---
 
-- Dike: Accurate Detection and Assessment of Spectre-PHT Gadget  
+- Accurate Detection and Assessment of Spectre-PHT Gadget  
   **Qi Ling** and Yi Ren, Baris Kasikci, Shuwen Deng  
   *Won 2nd Place at MICRO’23 Student Research Competition*  
   *Full paper submitted to ASPLOS'24*  
