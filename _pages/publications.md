@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Works"
+title: "Peer-Reviewed Works"
 permalink: /works/
 author_profile: true
 ---
