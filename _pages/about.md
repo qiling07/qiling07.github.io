@@ -14,9 +14,9 @@ I am currently an undergraduate student majoring in Computer Science at the Univ
 <!-- My research interests revolve around computer systems and architecture. Currently, I am deeply engaged in computer security, with a specific emphasis on hardware security. I'm also intrigued by compiler and CPU optimizations in large-scale cloud computing systems. I want to contribute to more efficient and secure computer architectures. -->
 I want to make computer systems more eﬀicient and secure. Currently, my work focuses on computer micro-architecture, but my interest spans many other fields in computer architecture and operating systems.
 
-I am advised by [Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/#) and [Baris Kasikci](https://web.eecs.umich.edu/~barisk/). I have also closely worked with [Yibo Pi](https://yibopi.github.io).
+I am advised by [Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/#) and [Baris Kasikci](https://web.eecs.umich.edu/~barisk/). I was also advised by [Yibo Pi](https://yibopi.github.io).
 
-I am applying for PhD programs and expect to graduate in Summer 2024. Please reach out to me if you are looking for PhD students.
+I am applying for PhD programs starting Fall 2024. Please reach out to me if you are looking for PhD students.
 
 Education
 ------
@@ -30,6 +30,6 @@ Education
 Awards & Honors
 ------
 - <div style="display: flex; justify-content: space-between;">ACM Student Research Competition 2nd Place Award<span style="flex-grow: 1;"></span>2023</div>
-- <div style="display: flex; justify-content: space-between;">Dean's Honor List<span style="flex-grow: 1;"></span>2023</div>
-- <div style="display: flex; justify-content: space-between;">Jackson and Murial Lum Scholarship<span style="flex-grow: 1;"></span>2022</div>
+- <div style="display: flex; justify-content: space-between;">Dean's Honor List<span style="flex-grow: 1;"></span>2022, 2023</div>
+- <div style="display: flex; justify-content: space-between;">Jackson and Murial Lum Scholarship<span style="flex-grow: 1;"></span>2022, 2023</div>
 - <div style="display: flex; justify-content: space-between;">SJTU Undergraduate Excellence Scholarship<span style="flex-grow: 1;"></span>2021</div>
