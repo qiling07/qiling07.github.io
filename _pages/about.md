@@ -19,8 +19,8 @@ and operating systems.
 
 I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](https://www.cs.purdue.edu/homes/pfonseca/). During my undergraduate, I was advised by [Baris Kasikci](https://web.eecs.umich.edu/~barisk/), [Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/#), and [Yibo Pi](https://yibopi.github.io).
 
-**I am looking for a research intern position starting Summer 2025. Please reach out to me if you are looking for research interns.
-**
+**I am looking for a research intern position starting Summer 2025. Please reach out to me if you are looking for research interns.**
+
 Education
 ------
 - Aug. 2024 - Present

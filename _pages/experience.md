@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-- Research Assistant, Aug. 2024 - Present
+- Research Assistant, Aug. 2024 - Present  
   **SecArch & RSSys, Purdue University**  
   **Advisors: Kazem Taram and Pedro Fonseca**  
   <span style="color: gray; font-weight: bold;">Evaluating scalability bottlenecks for different isolation techniques.</span>  
