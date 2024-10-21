@@ -23,13 +23,13 @@ I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](http
 
 Education
 ------
-- Aug. 2024 - Present
+- Aug. 2024 - Present  
   **Doctoral Degree in Computer Science**  
   <span style="color: gray; font-weight: bold;">Purdue University</span>
 - Sept. 2022 - May. 2024  
   **Bachelor of Science in Computer Science**  
   <span style="color: gray; font-weight: bold;">University of Michigan</span>
-- Sept. 2020 - August. 2024
+- Sept. 2020 - August. 2024  
   **Bachelor of Science in Electrical and Computer Engineering**  
   <span style="color: gray; font-weight: bold;">Shanghai Jiao Tong University</span>
 
