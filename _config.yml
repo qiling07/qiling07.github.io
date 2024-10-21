@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Qi Ling"
   avatar           : "profile.png"
-  bio              : "Senior majoring in CS & ECE"
-  location         : "MI 48105"
+  bio              : "1st Year PhD in CS"
+  location         : "IN 47901"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      :  #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  "qi-ling-b35b56246"
-  orcid            :  # "http://orcid.org/yourorcidurl"
+  orcid            :  "http://orcid.org/0009-0000-7837-5580"
   pinterest        :
   soundcloud       :
   stackoverflow    :  # http://stackoverflow.com/users/123456/username

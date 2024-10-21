@@ -4,9 +4,9 @@ title: "Contact"
 author_profile: true
 ---
 
-qiling@umich.edu  
+ling102@purdue.edu  
 +1 (734) 834-7174
 
 <address>
-  1857 Shirley Lane, Apt A1<br /> Ann Arbor, MI 48105<br /> United States
+  200 S 4th Street<br /> Lafayette, IN 47901<br /> United States
 </address>
