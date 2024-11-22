@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - Accurate Detection and Assessment of Spectre-PHT Gadget  
-  **Qi Ling** and Yi Ren, Baris Kasikci, Shuwen Deng  
+  **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
   *Won 2nd Place at MICRO’23 Student Research Competition*  
   *To appear in NDSS'25*
   [pdf] [[poster](/files/SRC%20Poster%20Portroit.pdf)] [presentation]
