@@ -23,7 +23,7 @@ I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](http
 
 Publications
 ------
-- GadgetMeter: Quantitatively and Accurately Gauge the Exploitability of Speculative Gadgets  
+- GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets  
   **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
   <span style="color: gray; font-weight: bold;">Won 2nd Place at MICRO’23 Undergraduate SRC</span>  
   <span style="color: gray; font-weight: bold;">Network and Distributed System Security Symposium (NDSS’25)</span>  
