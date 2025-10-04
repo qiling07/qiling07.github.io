@@ -52,3 +52,5 @@ Awards & Honors
 - <div style="display: flex; justify-content: space-between;">Dean's Honor List<span style="flex-grow: 1;"></span>2022, 2023</div>
 - <div style="display: flex; justify-content: space-between;">Jackson and Murial Lum Scholarship<span style="flex-grow: 1;"></span>2022, 2023</div>
 - <div style="display: flex; justify-content: space-between;">SJTU Undergraduate Excellence Scholarship<span style="flex-grow: 1;"></span>2021</div>
+
+<p style="margin-top:0.25em;"><small style="color: gray;">Pronunciation: CHEE-ling (Qi = CHEE, Ling = ling)</small></p>

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qi Ling / PhD student"
 title_separator          : "-"
 name                     : &name "Qi Ling"
-description              : &description "Senior majoring in CS & ECE"
+description              : &description "Ph.D. student in CS"
 url                      : https://qiling07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiling07/qiling07.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "qiling@umich.edu"
+  email            : "ling102@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  pronunciation    : "Qi = 'CHEE', Ling = 'ling' — read: CHEE-ling"
 
 
 # Reading Files
