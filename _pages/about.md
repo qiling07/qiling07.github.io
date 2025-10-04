@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student majoring in Computer Science at Purdue University. Before I came to Purdue, I studied at University of Michigan (CS) and Shanghai Jiao Tong University (ECE).
+I am a second-year Ph.D. student majoring in Computer Science at Purdue University. I received my B.S. degress from University of Michigan (CS) and Shanghai Jiao Tong University (ECE).
 
 <!-- My research interest mainly lies in computer systems and architecture. Currently, I am interested in computer security, with a focus on hardware security. I am also interested in compiler and CPU optimizations in large cloud computing systems. I want to contribute to more efficient and more secure computer architecture. -->
 <!-- My research interests revolve around computer systems and architecture. Currently, I am deeply engaged in computer security, with a specific emphasis on hardware security. I'm also intrigued by compiler and CPU optimizations in large-scale cloud computing systems. I want to contribute to more efficient and secure computer architectures. -->
@@ -27,7 +27,7 @@ Publications
   **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
   <span style="color: gray; font-weight: bold;">Won 2nd Place at MICRO’23 Undergraduate SRC</span>  
   <span style="color: gray; font-weight: bold;">Network and Distributed System Security Symposium (NDSS’25)</span>  
-  [[pdf](https://dx.doi.org/10.14722/ndss.2025.241723)]
+  [[pdf](https://dx.doi.org/10.14722/ndss.2025.241723)] [[video](https://youtu.be/xtkCiMXQA4o)]
 - Towards Fine-Grained, High-Coverage Internet Monitoring at Scale  
   Hongyu Wu, **Qi Ling**, Penghui Mi, Chaoyang Ji, Yinliang Hu, Yibo Pi  
   <span style="color: gray; font-weight: bold;">The 7th Asia-Pacific Workshop on Networking (APNet’23)</span>  
