@@ -17,7 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% assign pron = author.pronunciation | default: site.author.pronunciation %}
-    {% if pron %}<p class="author__pronunciation" style="color: #6c757d;">{{ pron }}</p>{% endif %}
+    {% if pron %}<span class="author__pronunciation" style="color: #6c757d;">{{ pron }}</span>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
