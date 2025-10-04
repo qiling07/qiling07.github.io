@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student majoring in Computer Science at Purdue University. Before I came to Purdue, I studied at University of Michigan (CS) and Shanghai Jiao Tong University (ECE).
+I am a second-year Ph.D. student majoring in Computer Science at Purdue University. Before I came to Purdue, I studied at University of Michigan (CS) and Shanghai Jiao Tong University (ECE).
 
 <!-- My research interest mainly lies in computer systems and architecture. Currently, I am interested in computer security, with a focus on hardware security. I am also interested in compiler and CPU optimizations in large cloud computing systems. I want to contribute to more efficient and more secure computer architecture. -->
 <!-- My research interests revolve around computer systems and architecture. Currently, I am deeply engaged in computer security, with a specific emphasis on hardware security. I'm also intrigued by compiler and CPU optimizations in large-scale cloud computing systems. I want to contribute to more efficient and secure computer architectures. -->
-I want to make computer systems more eﬀicient, reliable, and secure. Currently, my project focuses on
-scalable isolation techniques, specifically identifying and addressing bottlenecks in isolation techniques to
-enhance performance and scalability. Still, my interest spans many other fields in computer architecture
-and operating systems.
+I want to make computer systems more eﬀicient, reliable, and secure. Currently, my project focuses on fine-grained and low-cost microarchitectural isolation techniques, enhancing performance and security for serverless computing. Still, my interest spans many other fields in computer architecture and operating systems.
 
-I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](https://www.cs.purdue.edu/homes/pfonseca/). During my undergraduate, I was advised by [Baris Kasikci](https://web.eecs.umich.edu/~barisk/), [Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/#), and [Yibo Pi](https://yibopi.github.io).
+I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](https://www.cs.purdue.edu/homes/pfonseca/). During my undergraduate, I was advised by [Baris Kasikci](https://homes.cs.washington.edu/~baris/), [Shuwen Deng](https://www.thu-haslab.org/author/shuwen-deng/), and [Yibo Pi](https://yibopi.github.io).
 
-**I am looking for a research intern position starting Summer 2025. Please reach out to me if you are looking for research interns.**
+**I am looking for a research intern position starting Summer 2026. Please reach out to me if you are looking for research interns.**
 
 Publications
 ------
+- Cache Partitioning for Performance in Serverless Computing  
+  **Qi Ling**, Ajay R. Rawat, Pedro Fonseca, Kazem Taram  
+  <span style="color: gray; font-weight: bold;">In submission to ISCA'26</span>
 - GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets  
   **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
   <span style="color: gray; font-weight: bold;">Won 2nd Place at MICRO’23 Undergraduate SRC</span>  

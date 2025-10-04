@@ -8,9 +8,11 @@ author_profile: true
 - Research Assistant, Aug. 2024 - Present  
   **SecArch & RSSys, Purdue University**  
   **Advisors: Kazem Taram and Pedro Fonseca**  
-  <span style="color: gray; font-weight: bold;">Evaluating scalability bottlenecks for different isolation techniques.</span>  
-  - Explored scalability issues in virtualization environments, focusing on inter-VM/container scalability.
-  - Conducted case study on Redis clusters in Kubernetes to observe scalability bottlenecks and performance degradation.
+  <span style="color: gray; font-weight: bold;">Microarchitectural isolation for performance and security.</span>  
+  - Identified a new kind of cache contention in serverless computing.
+  - Discovered a new cache partitioning technique, without introducing new hardware.
+  - Achieved fine-grained, zero-cost cache partitioning across tens to hundreds of serverless functions.
+  - Improved the P50 latency of latency-critical functions by 30% on average.
 
 
 - Research Assistant, Jan. 2023 - Aug. 2023  
