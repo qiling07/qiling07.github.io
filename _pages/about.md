@@ -18,11 +18,17 @@ I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](http
 
 **I am looking for a research intern position starting Summer 2026. Please reach out to me if you are looking for research interns.**
 
-Publications
+Works in Progress
 ------
 - Cache Partitioning for Performance in Serverless Computing  
   **Qi Ling**, Ajay R. Rawat, Pedro Fonseca, Kazem Taram  
   <span style="color: gray; font-weight: bold;">In submission to ISCA'26</span>
+- Compiler and Hardware Support for Zero-Cost Integer Overflow Protection  
+  Zheng Zhang, **Qi Ling**, Brendan Ryan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
+  <span style="color: gray; font-weight: bold;">Under review at ASPLOS’26</span>
+
+Publications
+------
 - GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets  
   **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
   <span style="color: gray; font-weight: bold;">Won 2nd Place at MICRO’23 Undergraduate SRC</span>  
