@@ -19,7 +19,7 @@ Works in Progress
 ------
 - Cache Partitioning for Performance in Serverless Computing  
   **Qi Ling**, Ajay R. Rawat, Pedro Fonseca, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">In submission to ISCA'26</span>
+  <span style="color: gray; font-weight: bold;">Under review</span>
 - Compiler and Hardware Support for Zero-Cost Integer Overflow Protection  
   Zheng Zhang, **Qi Ling**, Brendan Ryan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">Under review at ASPLOS’26</span>
+  <span style="color: gray; font-weight: bold;">Under review</span>
