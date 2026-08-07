@@ -20,6 +20,7 @@ Works in Progress
 - Cache Partitioning for Performance in Serverless Computing  
   **Qi Ling**, Ajay R. Rawat, Pedro Fonseca, Kazem Taram  
   <span style="color: gray; font-weight: bold;">Under review</span>
-- Compiler and Hardware Support for Zero-Cost Integer Overflow Protection  
-  Zheng Zhang, **Qi Ling**, Brendan Ryan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">Under review</span>
+- An Integer Overflow Endgame: Compiler and Architecture Support for Default-On Integer Overflow Mitigation  
+  Zheng Zhang, **Qi Ling**, Kian Kasad, Brendan Ryan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
+  <span style="color: gray; font-weight: bold;">Accepted</span>  
+  [[paper](https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-zheng)]
