@@ -10,7 +10,18 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"{% if author.avatars %} data-random-avatar{% endif %}>
+      {% if author.avatars %}
+        <script>
+          (function () {
+            var image = document.currentScript.previousElementSibling;
+            var avatars = [
+              {% for avatar in author.avatars %}"{{ avatar | prepend: "/images/" | prepend: base_path }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+            ];
+            image.src = avatars[Math.floor(Math.random() * avatars.length)];
+          }());
+        </script>
+      {% endif %}
     {% endif %}
   </div>
 
