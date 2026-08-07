@@ -7,10 +7,10 @@ author_profile: true
 
 - A Harmony of Ice and Fire: Mitigating Cold Last-Level Cache Effects in Serverless Computing on Commodity Hardware  
   **Qi Ling**, Ajay Rawat, Pedro Fonseca, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">59th IEEE/ACM International Symposium on Microarchitecture (MICRO), October 2026</span>
+  <span style="color: gray; font-weight: bold;">59th IEEE/ACM International Symposium on Microarchitecture (MICRO'26)</span>
 - An Integer Overflow Endgame: Compiler and Architecture Support for Default-On Integer Overflow Mitigation  
   Zheng Zhang, **Qi Ling**, Kian Kasad, Brendan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">35th USENIX Security Symposium (USENIX Security), August 2026</span>  
+  <span style="color: gray; font-weight: bold;">35th USENIX Security Symposium (USENIX Security'26)</span>  
   [[paper](https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-zheng)] [[artifact](https://zenodo.org/records/20317246)]
 - GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets  
   **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
