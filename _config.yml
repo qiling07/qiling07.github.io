@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Qi Ling"
-  avatar           : "profile-3080.jpg"
+  avatar           : "qiling-1.png"
   avatars:
-    - "profile-3080.jpg"
-    - "profile-6883.jpg"
-    - "profile-7137.jpg"
+    - "qiling-1.png"
+    - "qiling-2.jpg"
+    - "qiling-3.png"
   bio              : "2nd Year PhD in CS"
   location         : "IN 47901"
   employer         :
