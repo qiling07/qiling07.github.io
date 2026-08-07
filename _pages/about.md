@@ -20,6 +20,10 @@ I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](http
 
 Publications
 ------
+- An Integer Overflow Endgame: Compiler and Architecture Support for Default-On Integer Overflow Mitigation  
+  Zheng Zhang, **Qi Ling**, Kian Kasad, Brendan Ryan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
+  <span style="color: gray; font-weight: bold;">USENIX Security Symposium (USENIX Security’26)</span>  
+  [[paper](https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-zheng)]
 - GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets  
   **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
   <span style="color: gray; font-weight: bold;">Network and Distributed System Security Symposium (NDSS’25)</span>  
@@ -35,10 +39,6 @@ Works in Progress
 - Cache Partitioning for Performance in Serverless Computing  
   **Qi Ling**, Ajay R. Rawat, Pedro Fonseca, Kazem Taram  
   <span style="color: gray; font-weight: bold;">Under review</span>
-- An Integer Overflow Endgame: Compiler and Architecture Support for Default-On Integer Overflow Mitigation  
-  Zheng Zhang, **Qi Ling**, Kian Kasad, Brendan Ryan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">Accepted</span>  
-  [[paper](https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-zheng)]
 
 Awards & Honors
 ------
