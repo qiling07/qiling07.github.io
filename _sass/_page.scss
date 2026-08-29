@@ -194,6 +194,135 @@
   }
 }
 
+/* Experience timeline */
+.experience-list {
+  margin: 1.25em 0 2em;
+}
+
+.experience-entry {
+  position: relative;
+  margin-bottom: 2em;
+  padding-left: 1.1em;
+
+  &::before {
+    position: absolute;
+    top: 0.3em;
+    bottom: 0.2em;
+    left: 0;
+    width: 2px;
+    border-radius: 2px;
+    background: $lighter-gray;
+    content: "";
+  }
+}
+
+.experience-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1em;
+  margin-bottom: 0.2em;
+}
+
+.experience-role {
+  color: $darker-gray;
+  font-size: 1.02em;
+  font-weight: 600;
+}
+
+.experience-date {
+  color: $gray;
+  font-size: 0.8em;
+  white-space: nowrap;
+}
+
+.experience-affiliation {
+  color: #526d82;
+  font-size: 0.88em;
+  font-weight: 600;
+}
+
+.experience-advisors {
+  margin-top: 0.12em;
+  color: $dark-gray;
+  font-size: 0.82em;
+  font-weight: 600;
+}
+
+.experience-focus {
+  margin-top: 0.38em;
+  color: $gray;
+  font-size: 0.84em;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.experience-details {
+  margin: 0.55em 0 0;
+  padding-left: 1.1em;
+  color: $dark-gray;
+
+  li {
+    margin-bottom: 0.22em;
+    font-size: 0.86em;
+    line-height: 1.55;
+  }
+}
+
+/* Contact details */
+.contact-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.6em 2.5em;
+  max-width: 36em;
+  margin-top: 1.5em;
+}
+
+.contact-item--wide {
+  grid-column: 1 / -1;
+}
+
+.contact-label {
+  margin-bottom: 0.3em;
+  color: $gray;
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.contact-value {
+  margin: 0;
+  color: $dark-gray;
+  font-size: 0.9em;
+  font-style: normal;
+  line-height: 1.55;
+
+  a {
+    color: #466f8d;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover { text-decoration: underline; }
+  }
+}
+
+@include breakpoint(max-width 520px) {
+  .experience-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.1em;
+  }
+
+  .contact-list {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-item--wide {
+    grid-column: auto;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
