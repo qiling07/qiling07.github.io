@@ -1,0 +1,269 @@
+/* ==========================================================================
+   AUTOMATIC DARK MODE
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+
+  html,
+  body {
+    background-color: #15181c;
+  }
+
+  body { color: #d6dbe1; }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .page__title,
+  .archive__item-title,
+  .author__name {
+    color: #f0f3f6;
+  }
+
+  a {
+    color: #82b9d9;
+
+    &:visited { color: #a7a3d8; }
+    &:hover { color: #abd2e8; }
+  }
+
+  hr,
+  .masthead,
+  .page__content h2,
+  .page__related,
+  .comment:not(:last-child),
+  .author__avatar img,
+  table,
+  th,
+  td {
+    border-color: #343a42;
+  }
+
+  .masthead,
+  .greedy-nav,
+  .page,
+  .archive,
+  .sidebar {
+    background-color: #15181c;
+  }
+
+  .greedy-nav {
+    a {
+      color: #d6dbe1;
+
+      &:hover { color: #ffffff; }
+    }
+
+    .hidden-links {
+      background-color: #20242a;
+      border-color: #343a42;
+
+      a:hover { background-color: #2a3037; }
+
+      &::before { border-color: #343a42 transparent; }
+      &::after { border-color: #20242a transparent; }
+    }
+  }
+
+  .masthead__menu-item--lg a,
+  .site-title {
+    color: #f0f3f6;
+  }
+
+  .author__pronunciation,
+  .author__bio,
+  .author__urls,
+  .page__meta,
+  .archive__item-excerpt,
+  figcaption {
+    color: #a5adb7 !important;
+  }
+
+  .author__urls {
+    background-color: #20242a;
+    border-color: #343a42;
+    box-shadow: 0 0 10px rgba(#000, 0.45);
+
+    @include breakpoint($large) {
+      background-color: transparent;
+      box-shadow: none;
+    }
+
+    &::before { border-color: #343a42 transparent; }
+    &::after { border-color: #20242a transparent; }
+
+    a {
+      color: #cbd1d8;
+
+      &:visited { color: #cbd1d8; }
+      &:hover { color: #ffffff; }
+    }
+  }
+
+  .social-icons {
+    .fas,
+    .far,
+    .fab,
+    .fal,
+    .ai {
+      color: #c5cbd2;
+    }
+  }
+
+  .page__footer {
+    color: #aab1ba;
+    background-color: #1c2025;
+    border-color: #343a42;
+
+    .fas,
+    .far,
+    .fab,
+    .fal {
+      color: #aab1ba;
+    }
+  }
+
+  blockquote {
+    color: #c1c7ce;
+    border-color: #668aa3;
+  }
+
+  table {
+    color: #d6dbe1;
+
+    thead { background-color: #23282f; }
+    tr { border-color: #343a42; }
+  }
+
+  input,
+  textarea,
+  select {
+    color: #e2e6ea;
+    background-color: #20242a;
+    border-color: #414852;
+
+    &:focus {
+      background-color: #242a31;
+      border-color: #6d9ab8;
+    }
+  }
+
+  .btn--inverse {
+    color: #d6dbe1 !important;
+    background-color: #20242a;
+    border-color: #4a515b !important;
+
+    &:hover {
+      color: #ffffff !important;
+      background-color: #343a42;
+    }
+  }
+
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code,
+  pre,
+  .highlight {
+    color: #d8dee7;
+    background-color: #20242a;
+    border-color: #343a42;
+    box-shadow: none;
+  }
+
+  .notice,
+  .notice--primary,
+  .notice--info,
+  .notice--warning,
+  .notice--success,
+  .notice--danger {
+    color: #d6dbe1;
+    background-color: #20252b;
+  }
+
+  .toc {
+    color: #cbd1d8;
+    background-color: #1d2127;
+    border-color: #343a42;
+
+    .nav__title { color: #ffffff; }
+    a { color: #cbd1d8; }
+    a:hover { color: #ffffff; background-color: #293039; }
+  }
+
+  .pagination {
+    a,
+    li > span {
+      color: #aeb6bf;
+      background-color: #1d2127;
+      border-color: #343a42;
+    }
+  }
+
+  /* Custom content components */
+  .publication-entry::before,
+  .experience-entry::before {
+    background-color: #3b424b;
+  }
+
+  .publication-title,
+  .experience-role {
+    color: #f0f3f6;
+  }
+
+  .publication-authors,
+  .experience-date,
+  .experience-focus,
+  .contact-label {
+    color: #a5adb7;
+  }
+
+  .publication-authors strong,
+  .experience-advisors,
+  .experience-details,
+  .contact-value {
+    color: #d6dbe1;
+  }
+
+  .publication-venue,
+  .experience-affiliation {
+    color: #91b6cf;
+  }
+
+  .publication-award--gold {
+    color: #ff8b82;
+
+    i { color: #e0b22f; }
+  }
+
+  .publication-award--silver {
+    color: #c6cbd2;
+
+    i { color: #b7bdc5; }
+  }
+
+  .publication-links a,
+  .contact-value a {
+    color: #82b9d9;
+    border-bottom-color: #587b92;
+
+    &:visited { color: #82b9d9; }
+    &:hover { color: #abd2e8; border-bottom-color: #abd2e8; }
+  }
+
+  .page__content span[style*="color: gray"] {
+    color: #a5adb7 !important;
+  }
+
+  ::selection {
+    color: #ffffff;
+    background-color: #365b73;
+  }
+}
