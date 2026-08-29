@@ -16,7 +16,7 @@ author_profile: true
 - GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets  
   **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
   <span style="color: gray; font-weight: bold;">Network and Distributed System Security Symposium (NDSS’25)</span>  
-  <span style="color: #ff746b; font-weight: bold;"><i class="fas fa-medal" style="color: #c0c0c0;"></i> 2nd Place at MICRO Undergraduate Student Research Competition</span><br>
+  <span style="color: #9a9a9a; font-weight: bold;"><i class="fas fa-medal" style="color: #c0c0c0;"></i> 2nd Place at MICRO Student Research Competition</span><br>
   [[pdf](https://dx.doi.org/10.14722/ndss.2025.241723)] [[video](https://youtu.be/xtkCiMXQA4o)]
 - Towards Fine-Grained, High-Coverage Internet Monitoring at Scale  
   Hongyu Wu, **Qi Ling**, Penghui Mi, Chaoyang Ji, Yinliang Hu, Yibo Pi  
