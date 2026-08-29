@@ -20,28 +20,38 @@ I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](http
 
 Publications
 ------
-- A Harmony of Ice and Fire: Mitigating Cold Last-Level Cache Effects in Serverless Computing on Commodity Hardware  
-  **Qi Ling**, Ajay Rawat, Pedro Fonseca, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">59th IEEE/ACM International Symposium on Microarchitecture (MICRO'26)</span>
-- An Integer Overflow Endgame: Compiler and Architecture Support for Default-On Integer Overflow Mitigation  
-  Zheng Zhang, **Qi Ling**, Kian Kasad, Brendan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram  
-  <span style="color: gray; font-weight: bold;">35th USENIX Security Symposium (USENIX Security'26)</span>  
-  <span style="color: #ff746b; font-weight: bold;"><i class="fas fa-medal" style="color: #d9a514;"></i> Distinguished Paper Award!</span><br>
-  [[paper](https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-zheng)] [[artifact](https://zenodo.org/records/20317246)]
-- GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets  
-  **Qi Ling**, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng  
-  <span style="color: gray; font-weight: bold;">Network and Distributed System Security Symposium (NDSS’25)</span>  
-  <span style="color: #9a9a9a; font-weight: bold;"><i class="fas fa-medal" style="color: #c0c0c0;"></i> 2nd Place at MICRO Student Research Competition</span><br>
-  [[pdf](https://dx.doi.org/10.14722/ndss.2025.241723)] [[video](https://youtu.be/xtkCiMXQA4o)]
-- Towards Fine-Grained, High-Coverage Internet Monitoring at Scale  
-  Hongyu Wu, **Qi Ling**, Penghui Mi, Chaoyang Ji, Yinliang Hu, Yibo Pi  
-  <span style="color: gray; font-weight: bold;">The 7th Asia-Pacific Workshop on Networking (APNet’23)</span>  
-  [[pdf](https://doi.org/10.1145/3600061.3600085)]
+<div class="publication-list">
+  <article class="publication-entry">
+    <div class="publication-title">A Harmony of Ice and Fire: Mitigating Cold Last-Level Cache Effects in Serverless Computing on Commodity Hardware</div>
+    <div class="publication-authors"><strong>Qi Ling</strong>, Ajay Rawat, Pedro Fonseca, Kazem Taram</div>
+    <div class="publication-venue">59th IEEE/ACM International Symposium on Microarchitecture · MICRO ’26</div>
+  </article>
+  <article class="publication-entry">
+    <div class="publication-title">An Integer Overflow Endgame: Compiler and Architecture Support for Default-On Integer Overflow Mitigation</div>
+    <div class="publication-authors">Zheng Zhang, <strong>Qi Ling</strong>, Kian Kasad, Brendan Sweeney, Deepak Gupta, Tal Garfinkel, Kazem Taram</div>
+    <div class="publication-venue">35th USENIX Security Symposium · USENIX Security ’26</div>
+    <div class="publication-award publication-award--gold"><i class="fas fa-medal"></i> Distinguished Paper Award!</div>
+    <div class="publication-links"><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-zheng">Paper</a><a href="https://zenodo.org/records/20317246">Artifact</a></div>
+  </article>
+  <article class="publication-entry">
+    <div class="publication-title">GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets</div>
+    <div class="publication-authors"><strong>Qi Ling</strong>, Yujun Liang, Yi Ren, Baris Kasikci, Shuwen Deng</div>
+    <div class="publication-venue">Network and Distributed System Security Symposium · NDSS ’25</div>
+    <div class="publication-award publication-award--silver"><i class="fas fa-medal"></i> 2nd Place at MICRO Student Research Competition</div>
+    <div class="publication-links"><a href="https://dx.doi.org/10.14722/ndss.2025.241723">PDF</a><a href="https://youtu.be/xtkCiMXQA4o">Video</a></div>
+  </article>
+  <article class="publication-entry">
+    <div class="publication-title">Towards Fine-Grained, High-Coverage Internet Monitoring at Scale</div>
+    <div class="publication-authors">Hongyu Wu, <strong>Qi Ling</strong>, Penghui Mi, Chaoyang Ji, Yinliang Hu, Yibo Pi</div>
+    <div class="publication-venue">The 7th Asia-Pacific Workshop on Networking · APNet ’23</div>
+    <div class="publication-links"><a href="https://doi.org/10.1145/3600061.3600085">PDF</a></div>
+  </article>
+</div>
 
 Awards & Honors
 ------
 - <div style="display: flex; justify-content: space-between;">USENIX Security Distinguished Paper Award<span style="flex-grow: 1;"></span>2026</div>
-- <div style="display: flex; justify-content: space-between;">ACM Student Research Competition 2nd Place Award<span style="flex-grow: 1;"></span>2023</div>
+- <div style="display: flex; justify-content: space-between;">ACM MICRO Student Research Competition 2nd Place<span style="flex-grow: 1;"></span>2023</div>
 - <div style="display: flex; justify-content: space-between;">ACM MICRO Student Travel Grant<span style="flex-grow: 1;"></span>2023</div>
 - <div style="display: flex; justify-content: space-between;">Dean's Honor List<span style="flex-grow: 1;"></span>2022, 2023</div>
 - <div style="display: flex; justify-content: space-between;">Jackson and Murial Lum Scholarship<span style="flex-grow: 1;"></span>2022, 2023</div>
