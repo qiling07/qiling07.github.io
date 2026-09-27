@@ -25,6 +25,7 @@ Publications
     <div class="publication-title">A Harmony of Ice and Fire: Mitigating Cold Last-Level Cache Effects in Serverless Computing on Commodity Hardware</div>
     <div class="publication-authors"><strong>Qi Ling</strong>, Ajay Rawat, Pedro Fonseca, Kazem Taram</div>
     <div class="publication-venue">59th IEEE/ACM International Symposium on Microarchitecture · MICRO ’26</div>
+    <div class="publication-links"><a href="/files/HarmoniCa_CameraReady.pdf">PDF</a><a href="https://doi.org/10.5281/zenodo.21548955">Artifact</a></div>
   </article>
   <article class="publication-entry">
     <div class="publication-title">An Integer Overflow Endgame: Compiler and Architecture Support for Default-On Integer Overflow Mitigation</div>
