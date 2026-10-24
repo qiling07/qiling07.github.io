@@ -12,7 +12,7 @@ I am a third-year Ph.D. student majoring in Computer Science at Purdue Universit
 
 <!-- My research interest mainly lies in computer systems and architecture. Currently, I am interested in computer security, with a focus on hardware security. I am also interested in compiler and CPU optimizations in large cloud computing systems. I want to contribute to more efficient and more secure computer architecture. -->
 <!-- My research interests revolve around computer systems and architecture. Currently, I am deeply engaged in computer security, with a specific emphasis on hardware security. I'm also intrigued by compiler and CPU optimizations in large-scale cloud computing systems. I want to contribute to more efficient and secure computer architectures. -->
-I want to make computer systems more eﬀicient, reliable, and secure. Currently, my project focuses on fine-grained and low-cost microarchitectural isolation techniques, enhancing performance and security for serverless computing. Still, my interest spans many other fields in computer architecture and operating systems.
+I want to make emerging workloads and secure systems more eﬀicient, exploring co-design across architecture, compilers, runtime systems, and applications. Currently, my work focuses on eﬀicient serverless computing, agentic workloads, and mitigations for attacks.
 
 I am advised by [Kazem Taram](https://mktrm.github.io/) and [Pedro Fonseca](https://www.cs.purdue.edu/homes/pfonseca/). During my undergraduate, I was advised by [Baris Kasikci](https://homes.cs.washington.edu/~baris/), [Shuwen Deng](https://www.thu-haslab.org/author/shuwen-deng/), and [Yibo Pi](https://yibopi.github.io).
 
