@@ -26,10 +26,4 @@ author_profile: true
     <div class="publication-award publication-award--silver"><i class="fas fa-medal"></i> 2nd Place at MICRO Student Research Competition</div>
     <div class="publication-links"><a href="https://dx.doi.org/10.14722/ndss.2025.241723">PDF</a><a href="https://youtu.be/xtkCiMXQA4o">Video</a></div>
   </article>
-  <article class="publication-entry">
-    <div class="publication-title">Towards Fine-Grained, High-Coverage Internet Monitoring at Scale</div>
-    <div class="publication-authors">Hongyu Wu, <strong>Qi Ling</strong>, Penghui Mi, Chaoyang Ji, Yinliang Hu, Yibo Pi</div>
-    <div class="publication-venue">The 7th Asia-Pacific Workshop on Networking · APNet ’23</div>
-    <div class="publication-links"><a href="https://doi.org/10.1145/3600061.3600085">PDF</a></div>
-  </article>
 </div>
