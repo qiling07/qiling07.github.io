@@ -47,7 +47,6 @@ Awards & Honors
 ------
 - <div style="display: flex; justify-content: space-between;">USENIX Security Distinguished Paper Award<span style="flex-grow: 1;"></span>2026</div>
 - <div style="display: flex; justify-content: space-between;">ACM MICRO Student Research Competition 2nd Place<span style="flex-grow: 1;"></span>2023</div>
-- <div style="display: flex; justify-content: space-between;">ACM MICRO Student Travel Grant<span style="flex-grow: 1;"></span>2023</div>
 - <div style="display: flex; justify-content: space-between;">Dean's Honor List<span style="flex-grow: 1;"></span>2022, 2023</div>
 - <div style="display: flex; justify-content: space-between;">Jackson and Murial Lum Scholarship<span style="flex-grow: 1;"></span>2022, 2023</div>
 - <div style="display: flex; justify-content: space-between;">SJTU Undergraduate Excellence Scholarship<span style="flex-grow: 1;"></span>2021</div>

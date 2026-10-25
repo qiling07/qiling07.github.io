@@ -37,19 +37,4 @@ author_profile: true
       <li>Validated our approach and evaluated it against SOTA scanners on 2 micro-benchmarks, 6 userspace programs, and the Linux kernel. Identify 503 gadgets reported by SOTA scanners as unexploitable.</li>
     </ul>
   </article>
-
-  <article class="experience-entry">
-    <div class="experience-heading">
-      <div class="experience-role">Research Assistant</div>
-      <div class="experience-date">Aug. 2021 - Aug. 2022</div>
-    </div>
-    <div class="experience-affiliation">Network Measurement and System Lab, SJTU</div>
-    <div class="experience-advisors">Advisor: Yibo Pi</div>
-    <div class="experience-focus">Optimizing the accuracy and coverage of large-scale network monitoring.</div>
-    <ul class="experience-details">
-      <li>Challenged two root assumptions of conventional network monitoring practice with experiments.</li>
-      <li>Proposed and implemented a greedy end-to-end network monitoring approach.</li>
-      <li>Evaluated the accuracy, coverage and overhead of our approach.</li>
-    </ul>
-  </article>
 </div>
